@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- Floating action button diameters -->
+    <dimen name="floating_button_width">56dp</dimen>
+    <dimen name="floating_button_height">56dp</dimen>
+    <dimen name="floating_button_margin">16dp</dimen>
+    <dimen name="fab_press_translation_z">9dp</dimen>
+    <dimen name="floating_button_image_size">24dp</dimen>
+</resources>
